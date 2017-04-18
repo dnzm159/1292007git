@@ -4,4 +4,5 @@ public class Test{
 	}
 	public void second(){}
 	public void third(){}
+	public void forth(){}
 ]
